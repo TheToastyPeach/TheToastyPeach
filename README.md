@@ -1,7 +1,7 @@
 
 <section id="gifContent">
   <div align="center">
-    <h2> Hi, I'm Hans. </h2>
+    <h2> Hi, I'm Hans Bachman </h2>
     <img src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width="100"/>
   </div>
     <div> 
